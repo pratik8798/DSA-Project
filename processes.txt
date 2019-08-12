@@ -1,0 +1,8 @@
+###  Enter the processess in the Following order   #####
+###  name <Space> burst_time <Space> arrival_time  #####
+a 20 0
+b 40 0
+c 60 0
+d 30 0
+e 10 5
+f 30 10

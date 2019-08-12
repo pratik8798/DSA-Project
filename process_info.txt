@@ -1,0 +1,10 @@
+   Name    arrival time  Burst Time  Wait Time  Completition time  Turn Around Time 
+    e             5         10          0                 15                10
+    a             0         20         10                 30                30
+    d             0         30          0                 30                30
+    b             0         40          0                 40                40
+    f            10         30         20                 60                50
+    c             0         60          0                 60                60
+Total time to execute all processess      :        60 Seconds
+Average Wait time is                      :         5 Seconds
+Average Turn around time is               :   36.6667 Seconds
